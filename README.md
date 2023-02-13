@@ -2,4 +2,4 @@
 
 -----------
 
-<h6> Slides que eu ultilizo nas minhas aulas e apresentações. </h3>
+<h6> Slides que eu ultilizo nas minhas aulas e apresentações. </h6>
